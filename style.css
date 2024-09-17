@@ -1,0 +1,54 @@
+.head-line{
+    background-color: rgb(20, 20, 20);
+}
+.head-line:hover{
+    font-size: 102%;
+    background-color: rgb(34, 34, 34);
+    cursor: pointer;
+}
+
+.head-bar{
+    background-color: rgb(20, 20, 20);
+}
+
+p{
+    font-size: large;
+    color: gray;
+}
+.insta{
+    position: relative;
+    left: 50%; 
+}
+
+.cont-info p{
+    color: rgb(146, 146, 146);
+    
+}
+
+
+
+
+.foot{
+    font-size: small;
+    color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-decoration: none;
+    gap: 20px;
+    
+}
+.texts{
+    color: gray;
+    text-decoration: none;
+}
+.texts:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+
+.num:hover{
+  color: white;
+  cursor: pointer;
+}
